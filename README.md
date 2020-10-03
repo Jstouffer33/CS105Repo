@@ -11,3 +11,4 @@ Something dumb blah blah blah im gonna commit this !!!!!!
 Online school is hard, and I dont really know what I'm doing
 But this class is cool
 
+Merging into main file 
